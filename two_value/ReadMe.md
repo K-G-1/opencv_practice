@@ -8,9 +8,9 @@
 
 0: THRESH_BINARY  当前点值大于阈值时，取Maxval,也就是第四个参数，下面再不说明，否则设置为0  <br>
 1: THRESH_BINARY_INV 当前点值大于阈值时，设置为0，否则设置为Maxval                     <br>
-2: THRESH_TRUNC 当前点值大于阈值时，设置为阈值，否则不改变
-3: THRESH_TOZERO 当前点值大于阈值时，不改变，否则设置为0
-4: THRESH_TOZERO_INV  当前点值大于阈值时，设置为0，否则不改变 
+2: THRESH_TRUNC 当前点值大于阈值时，设置为阈值，否则不改变<br>                             
+3: THRESH_TOZERO 当前点值大于阈值时，不改变，否则设置为0<br>
+4: THRESH_TOZERO_INV  当前点值大于阈值时，设置为0，否则不改变<br>
 
 #### 自适应阈值化
 >void cv::adaptiveThreshold(  
