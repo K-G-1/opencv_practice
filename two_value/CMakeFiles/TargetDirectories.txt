@@ -1,0 +1,3 @@
+/home/kg/Soft/opencv_practice/two_value/CMakeFiles/edit_cache.dir
+/home/kg/Soft/opencv_practice/two_value/CMakeFiles/rebuild_cache.dir
+/home/kg/Soft/opencv_practice/two_value/CMakeFiles/opencv_two_value.dir

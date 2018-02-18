@@ -1,0 +1,3 @@
+/home/kg/Soft/opencv_practice/canny/CMakeFiles/edit_cache.dir
+/home/kg/Soft/opencv_practice/canny/CMakeFiles/rebuild_cache.dir
+/home/kg/Soft/opencv_practice/canny/CMakeFiles/opencv_canny.dir
