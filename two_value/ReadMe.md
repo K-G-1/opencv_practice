@@ -23,7 +23,7 @@
         double C // 常量    
         );
 
-thresholdType:cv::ADAPTIVE_THRESH_MEAN_C（平均）cv::ADAPTIVE_THRESH_GAUSSIAN_C（高斯）
-thresholdType:THRESH_BINARY / THRESH_BINARY_INV
-blockSize:奇数
+thresholdType:cv::ADAPTIVE_THRESH_MEAN_C（平均）cv::ADAPTIVE_THRESH_GAUSSIAN_C（高斯）<br>
+thresholdType:THRESH_BINARY / THRESH_BINARY_INV<br>
+blockSize:奇数<br>
 
