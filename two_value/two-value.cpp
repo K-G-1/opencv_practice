@@ -11,7 +11,7 @@ using namespace cv;
 
 int main()
 {
-    Mat src = imread("2.jpg");
+    Mat src = imread("0.jpg");
     Mat src1 = src.clone();
 
     imshow("Origin",src);
@@ -20,7 +20,7 @@ int main()
     Mat edge,gray,dst;
     cvtColor(src1,gray,COLOR_BGR2GRAY);             //转化为灰度值 
     // imshow("gray",gray);                         //显示灰度图
-    threshold(gray,edge, 70, 255,THRESH_BINARY);    //固定阈值
+    threshold(gray,edge, 230, 255,THRESH_BINARY);    //固定阈值
     adaptiveThreshold(gray,dst,255,ADAPTIVE_THRESH_MEAN_C,THRESH_BINARY,333,0);
 
     imshow("th",edge);

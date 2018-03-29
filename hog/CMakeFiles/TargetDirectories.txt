@@ -1,0 +1,3 @@
+/home/kg/Soft/opencv_practice/hog/CMakeFiles/edit_cache.dir
+/home/kg/Soft/opencv_practice/hog/CMakeFiles/rebuild_cache.dir
+/home/kg/Soft/opencv_practice/hog/CMakeFiles/opencv_hog.dir

@@ -1,0 +1,3 @@
+/home/kg/Soft/python/image/cut/CMakeFiles/edit_cache.dir
+/home/kg/Soft/python/image/cut/CMakeFiles/rebuild_cache.dir
+/home/kg/Soft/python/image/cut/CMakeFiles/opencv_cut.dir

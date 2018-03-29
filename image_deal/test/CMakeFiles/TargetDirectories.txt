@@ -1,0 +1,3 @@
+/home/kg/Soft/python/image/test/CMakeFiles/edit_cache.dir
+/home/kg/Soft/python/image/test/CMakeFiles/rebuild_cache.dir
+/home/kg/Soft/python/image/test/CMakeFiles/opencv_test.dir
